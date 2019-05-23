@@ -121,9 +121,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8?version=
 #EXTINF:-1 ,ТВ 3 (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/bw2000000/variant.m3u8?version=2
 
-#EXTINF:-1 group-title="Музыкальные каналы", 1HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1HDMUSICTV/bw5000000/variant.m3u8?version=2
-#EXTINF:-1 ,Bridge HD
+#EXTINF:-1 group-title="Музыкальные каналы", 1HD Music HD
+https://strm.yandex.ru/kal/1hd/1hd0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 ,Bridge TV HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEHD/bw5000000/variant.m3u8?version=2
 #EXTINF:-1 ,Bridge TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETV/bw2000000/variant.m3u8?version=2
@@ -183,8 +183,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_JARAHD/bw5000000/variant.m3u8?version
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AMOLL/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 ,Наше ТВ (Онлайн ТВ)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHETV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 ,1HD Music HD
-https://strm.yandex.ru/kal/1hd/1hd0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 ,ACB TV HD
 https://strm.yandex.ru/kal/acb/acb0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 ,RUSSIAN MUSIC BOX HD

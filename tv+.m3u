@@ -468,6 +468,10 @@ http://strm.yandex.ru/kal/multimania_supres/multimania_supres0_43_720p.json/inde
 https://strm.yandex.ru/kal/skazkizayki/skazkizayki0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 ,Смайлик ТВ
 https://strm.yandex.ru/kal/smilik/smilik0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 ,Рыжий
+http://zabava-htlive.cdn.ngenix.net/hls/CH_GINGER/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,Пингвин Лоло
+http://strm.yandex.ru/kal/pingvin_lolo_supres/pingvin_lolo_supres0_43_720p.json/index-v1-a1.m3u8
 
 #EXTINF:-1 group-title="Наука и образование", Discovery Channel HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYCHANNELHD/bw5000000/variant.m3u8?version=2
@@ -880,8 +884,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8?versio
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 ,Россия К (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 ,Рыжий
-http://zabava-htlive.cdn.ngenix.net/hls/CH_GINGER/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 ,Сарафан
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_SARAFAN/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 ,ТВ Центр
@@ -1014,8 +1016,6 @@ http://strm.yandex.ru/kal/hobbyworld_supres/hobbyworld_supres0_1511_720p.json/in
 https://strm.yandex.ru/kal/openworld_supres/openworld_supres0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 ,Первый вегетарианский
 http://strm.yandex.ru/kal/1vegetarian_supres/1vegetarian_supres0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 ,Пингвин Лоло
-http://strm.yandex.ru/kal/pingvin_lolo_supres/pingvin_lolo_supres0_43_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 ,Светлое ТВ
 https://strm.yandex.ru/kal/svettv/svettv0_169_576p.json/index-v1-a1.m3u8
 #EXTINF:-1 ,Сила ТВ HD

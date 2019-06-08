@@ -414,8 +414,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/bw2000000/variant.m3u8?version=
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 ,Ani
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ANI/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 ,Babes TV HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_BABESTVHD/bw5000000/variant.m3u8?version=2
 #EXTINF:-1 ,Boomerang
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOOMERANG/bw2000000/variant.m3u8?
 #EXTINF:-1 ,Cartoon Network HD

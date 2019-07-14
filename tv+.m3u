@@ -22,6 +22,140 @@ http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
 http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2
 #EXTINF:-1,Первый канал (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NW_KLGR_1TV/variant.m3u8?version=2
+#EXTINF:-1,Пятница
+http://pub1-cdn.perm.ertelecom.ru/friday_gibrid/0/index.m3u8
+#EXTINF:-1,Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Пятница! (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Пятница! (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Пятница! (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,СТС
+http://pub1-cdn.perm.ertelecom.ru/sts_gibrid/0/index.m3u8
+#EXTINF:-1,СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,СТС (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,СТС (+4)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_IRK_STS/variant.m3u8?version=2
+#EXTINF:-1,СТС (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,СТС Love (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,СТС Love (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,СТС love
+http://pub1-cdn.perm.ertelecom.ru/stslove_gibrid/0/index.m3u8
+#EXTINF:-1,Сарафан
+http://pub1-cdn.perm.ertelecom.ru/sarafan_gibrid/0/index.m3u8
+#EXTINF:-1,Супер
+http://pub1-cdn.perm.ertelecom.ru/super_gibrid/0/index.m3u8
+#EXTINF:-1,Супер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Супер (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Супер (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Супер (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ
+http://pub1-cdn.perm.ertelecom.ru/tnt_gibrid/0/index.m3u8
+#EXTINF:-1,ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ HD
+http://pub1-cdn.perm.ertelecom.ru/tnthd_gibrid/0/index.m3u8
+#EXTINF:-1,ТНТ4
+http://pub1-cdn.perm.ertelecom.ru/tnt4_gibrid/0/index.m3u8
+#EXTINF:-1,ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ4 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ4 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ4 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ
+http://pub1-cdn.perm.ertelecom.ru/tnt_gibrid/0/index.m3u8
+#EXTINF:-1,ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ HD
+http://pub1-cdn.perm.ertelecom.ru/tnthd_gibrid/0/index.m3u8
+#EXTINF:-1,ТНТ4
+http://pub1-cdn.perm.ertelecom.ru/tnt4_gibrid/0/index.m3u8
+#EXTINF:-1,ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ4 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ4 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ4 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,НТВ
+http://pub1-cdn.perm.ertelecom.ru/ntv_gibrid/0/index.m3u8
+#EXTINF:-1,НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,НТВ (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2
+#EXTINF:-1,НТВ (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2
+#EXTINF:-1,НТВ (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?version=2
+#EXTINF:-1,НТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,НТВ HD
+http://pub1-cdn.perm.ertelecom.ru/ntvhd_gibrid/0/index.m3u8
+#EXTINF:-1,РЕН ТВ
+http://pub1-cdn.perm.ertelecom.ru/rentv_gibrid/0/index.m3u8
+#EXTINF:-1,РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,РЕН ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,РЕН ТВ (+4)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV/variant.m3u8?version=2
+#EXTINF:-1,РЕН ТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,РЕН ТВ HD
+http://pub1-cdn.perm.ertelecom.ru/rentvhd_gibrid/0/index.m3u8
+#EXTINF:-1,Россия 1
+http://pub1-cdn.perm.ertelecom.ru/russia1_gibrid/0/index.m3u8
+#EXTINF:-1,Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Россия 1 (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1,Россия 1 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Россия 1 (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2
+#EXTINF:-1,Россия 1 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Россия 1 (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1,Россия 1 (+6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Россия 1 (+7)
+http://s91030.cdn.ngenix.net/hls/CH_R04_OTT_DV_VLD_ROSSIA1_OTT/variant.m3u8?version=2
+#EXTINF:-1,Россия 1 (+8)
+http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8
+#EXTINF:-1,Россия 1 (+9)
+http://s14131.cdn.ngenix.net/hls/CH_R04_OTT_DV_KAM_ROSSIA1_PKAM_OTT/variant.m3u8?version=2
+#EXTINF:-1,Россия 1 (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1,Россия HD
+http://pub1-cdn.perm.ertelecom.ru/russiahd_gibrid/0/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные каналы", О2 ТВ
 http://pub1-cdn.perm.ertelecom.ru/o2tv_gibrid/0/index.m3u8
@@ -66,6 +200,32 @@ http://pub1-cdn.perm.ertelecom.ru/matchtvhd_gibrid/0/index.m3u8
 http://pub1-cdn.perm.ertelecom.ru/matchtv_gibrid/0/index.m3u8
 #EXTINF:-1,Матч! Боец
 http://pub1-cdn.perm.ertelecom.ru/boec_gibrid/0/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://pub1-cdn.perm.ertelecom.ru/eurosporthd_gibrid/0/index.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://pub1-cdn.perm.ertelecom.ru/eurosport2hd_gibrid/0/index.m3u8
+#EXTINF:-1,M-1 Global HD
+http://pub1-cdn.perm.ertelecom.ru/m1globalhd_gibrid/0/index.m3u8
+#EXTINF:-1,Viasat Sport HD
+http://pub1-cdn.perm.ertelecom.ru/viasatsporthd_gibrid/0/index.m3u8
+#EXTINF:-1,КХЛ
+http://pub1-cdn.perm.ertelecom.ru/khl_gibrid/0/index.m3u8
+#EXTINF:-1,КХЛ HD
+http://pub1-cdn.perm.ertelecom.ru/khlhd_gibrid/0/index.m3u8
+#EXTINF:-1,Матч! Арена HD
+http://pub1-cdn.perm.ertelecom.ru/matcharenahd_gibrid/0/index.m3u8
+#EXTINF:-1,Матч! Игра HD
+http://pub1-cdn.perm.ertelecom.ru/matchigrahd_gibrid/0/index.m3u8
+#EXTINF:-1,Матч! ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Матч! Футбол 1 HD
+http://pub1-cdn.perm.ertelecom.ru/matchfutbol1hd_gibrid/0/index.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD
+http://pub1-cdn.perm.ertelecom.ru/matchfutbol2hd_gibrid/0/index.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+http://pub1-cdn.perm.ertelecom.ru/matchfutbol3hd_gibrid/0/index.m3u8
+#EXTINF:-1,Матч Премьер HD
+http://pub1-cdn.perm.ertelecom.ru/nashfootbalhd_gibrid/0/track_2_4000/playlist.m3u8
 #EXTINF:-1,myZen.tv HD
 http://pub1-cdn.perm.ertelecom.ru/myzenhd_gibrid/0/index.m3u8
 
@@ -75,6 +235,86 @@ http://pub1-cdn.perm.ertelecom.ru/tv1000russkoekinohd_gibrid/0/index.m3u8
 http://pub1-cdn.perm.ertelecom.ru/nashenovoekino_gibrid/0/index.m3u8
 #EXTINF:-1,ZeeTV
 http://pub1-cdn.perm.ertelecom.ru/zeetv_gibrid/0/index.m3u8
+#EXTINF:-1,2x2
+http://pub1-cdn.perm.ertelecom.ru/2x2_gibrid/0/index.m3u8
+#EXTINF:-1,2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,2x2 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,2x2 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,2x2 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Paramount Comedy HD
+http://pub1-cdn.perm.ertelecom.ru/paramountcomedyhd_gibrid/0/index.m3u8
+#EXTINF:-1,A1 HD
+http://pub1-cdn.perm.ertelecom.ru/amediahd_gibrid/0/index.m3u8
+#EXTINF:-1,Amedia 2
+http://pub1-cdn.perm.ertelecom.ru/amedia2_gibrid/0/index.m3u8
+#EXTINF:-1,Amedia Hit HD
+http://pub1-cdn.perm.ertelecom.ru/amediahithd_gibrid/0/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://pub1-cdn.perm.ertelecom.ru/amediapremiumhd_gibrid/0/index.m3u8
+#EXTINF:-1,Bolt HD
+http://pub1-cdn.perm.ertelecom.ru/bolthd_gibrid/0/index.m3u8
+#EXTINF:-1,Cinema
+http://pub1-cdn.perm.ertelecom.ru/cinema_gibrid/0/index.m3u8
+#EXTINF:-1,Fox HD
+http://pub1-cdn.perm.ertelecom.ru/foxhd_gibrid/0/index.m3u8
+#EXTINF:-1,Fox Life HD
+http://pub1-cdn.perm.ertelecom.ru/foxlifehd_gibrid/0/index.m3u8
+#EXTINF:-1,Hollywood HD
+http://pub1-cdn.perm.ertelecom.ru/hollywoodhd_gibrid/0/index.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://pub1-cdn.perm.ertelecom.ru/paramountchannelhd_gibrid/0/index.m3u8
+#EXTINF:-1,Sony Channel HD
+http://pub1-cdn.perm.ertelecom.ru/sonyhd_gibrid/0/index.m3u8
+#EXTINF:-1,Sony Turbo
+http://pub1-cdn.perm.ertelecom.ru/sonyturbo_gibrid/0/index.m3u8
+#EXTINF:-1,Spike HD
+http://pub1-cdn.perm.ertelecom.ru/spikehd_gibrid/0/index.m3u8
+#EXTINF:-1,Star Cinema HD
+http://pub1-cdn.perm.ertelecom.ru/starcinemahd_gibrid/0/index.m3u8
+#EXTINF:-1,TV1000 Action HD
+http://pub1-cdn.perm.ertelecom.ru/tv1000actionhd_gibrid/0/index.m3u8
+#EXTINF:-1,TV1000 HD
+http://pub1-cdn.perm.ertelecom.ru/tv1000hd_gibrid/0/index.m3u8
+#EXTINF:-1,VIP Comedy HD
+http://pub1-cdn.perm.ertelecom.ru/vipcomedyhd_gibrid/0/index.m3u8
+#EXTINF:-1,VIP Megahit HD
+http://pub1-cdn.perm.ertelecom.ru/vipmegahithd_gibrid/0/index.m3u8
+#EXTINF:-1,ViP Premiere HD
+http://pub1-cdn.perm.ertelecom.ru/vippremiumhd_gibrid/0/index.m3u8
+#EXTINF:-1,ViP Serial HD
+http://pub1-cdn.perm.ertelecom.ru/viasatgolfhd_gibrid/0/index.m3u8
+#EXTINF:-1,Дом кино
+http://pub1-cdn.perm.ertelecom.ru/domkino_gibrid/0/index.m3u8
+#EXTINF:-1,Дом кино Премиум HD
+http://pub1-cdn.perm.ertelecom.ru/domkinopremiumhd_gibrid/0/index.m3u8
+#EXTINF:-1,Еврокино
+http://pub1-cdn.perm.ertelecom.ru/eurokino_gibrid/0/index.m3u8
+#EXTINF:-1,Иллюзион+
+http://pub1-cdn.perm.ertelecom.ru/illusionplus_gibrid/0/index.m3u8
+#EXTINF:-1,Кино ТВ HD
+http://pub1-cdn.perm.ertelecom.ru/kinotvhd_gibrid/0/index.m3u8
+#EXTINF:-1,Киносвидание HD
+http://pub1-cdn.perm.ertelecom.ru/kinosvidaniehd_gibrid/0/index.m3u8
+#EXTINF:-1,Киносемья HD
+http://pub1-cdn.perm.ertelecom.ru/kinosemyahd_gibrid/0/index.m3u8
+#EXTINF:-1,Киносерия
+http://pub1-cdn.perm.ertelecom.ru/kinoseriya_gibrid/0/index.m3u8
+#EXTINF:-1,Кинохит HD
+http://pub1-cdn.perm.ertelecom.ru/kinohithd_gibrid/0/index.m3u8
+#EXTINF:-1,Комедия
+http://pub1-cdn.perm.ertelecom.ru/komediyatv_gibrid/0/index.m3u8
+#EXTINF:-1,НСТ
+http://pub1-cdn.perm.ertelecom.ru/nst_gibrid/0/index.m3u8
+#EXTINF:-1,НТВ Хит
+http://pub1-cdn.perm.ertelecom.ru/ntvhit_gibrid/0/index.m3u8
+#EXTINF:-1,Ретро
+http://pub1-cdn.perm.ertelecom.ru/retro_gibrid/0/index.m3u8
+#EXTINF:-1,Родное кино
+http://pub1-cdn.perm.ertelecom.ru/rodnoekino_gibrid/0/index.m3u8
 
 #EXTINF:-1 group-title="Охота и рыбалка", Дикая рыбалка HD
 http://pub1-cdn.perm.ertelecom.ru/dikayarybalkahd_gibrid/0/index.m3u8
@@ -83,6 +323,14 @@ http://pub1-cdn.perm.ertelecom.ru/ohotnikirybolovhd_gibrid/0/index.m3u8
 
 #EXTINF:-1 group-title="Путешествия и экстрим", Поехали
 http://pub1-cdn.perm.ertelecom.ru/poekhali_gibrid/0/index.m3u8
+#EXTINF:-1,Живая планета
+http://pub1-cdn.perm.ertelecom.ru/zhivayaplaneta_gibrid/0/index.m3u8
+#EXTINF:-1,Моя планета
+http://pub1-cdn.perm.ertelecom.ru/myplanet_gibrid/0/index.m3u8
+#EXTINF:-1,Планета HD
+http://pub1-cdn.perm.ertelecom.ru/planetahd_gibrid/0/index.m3u8
+#EXTINF:-1,Приключения HD
+http://pub1-cdn.perm.ertelecom.ru/priklyucheniyahd_gibrid/0/index.m3u8
 #EXTINF:-1,RTG HD
 http://pub1-cdn.perm.ertelecom.ru/rtghd_gibrid/0/index.m3u8
 #EXTINF:-1,TLC HD
@@ -95,6 +343,60 @@ http://pub1-cdn.perm.ertelecom.ru/avto24hd_gibrid/0/index.m3u8
 
 #EXTINF:-1 group-title="Юмор и развлечения", ЧЕ!
 http://pub1-cdn.perm.ertelecom.ru/perez_gibrid/0/index.m3u8
+#EXTINF:-1,Пятница
+http://pub1-cdn.perm.ertelecom.ru/friday_gibrid/0/index.m3u8
+#EXTINF:-1,Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Пятница! (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Пятница! (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Пятница! (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,СТС
+http://pub1-cdn.perm.ertelecom.ru/sts_gibrid/0/index.m3u8
+#EXTINF:-1,СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,СТС (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,СТС (+4)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_IRK_STS/variant.m3u8?version=2
+#EXTINF:-1,СТС (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,СТС Love (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,СТС Love (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,СТС love
+http://pub1-cdn.perm.ertelecom.ru/stslove_gibrid/0/index.m3u8
+#EXTINF:-1,Сарафан
+http://pub1-cdn.perm.ertelecom.ru/sarafan_gibrid/0/index.m3u8
+#EXTINF:-1,Супер
+http://pub1-cdn.perm.ertelecom.ru/super_gibrid/0/index.m3u8
+#EXTINF:-1,Супер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Супер (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Супер (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Супер (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Че
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Че (+2)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
+#EXTINF:-1,Че (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Ю
+http://pub1-cdn.perm.ertelecom.ru/u_gibrid/0/index.m3u8
+#EXTINF:-1,Ю
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Ю (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Ю (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Ю (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/bw2000000/variant.m3u8?version=2
 
 #EXTINF:-1 group-title="Детские каналы", Ani
 http://pub1-cdn.perm.ertelecom.ru/ani_gibrid/0/index.m3u8
@@ -151,16 +453,16 @@ http://pub1-cdn.perm.ertelecom.ru/tlumhd_gibrid/0/index.m3u8
 
 #EXTINF:-1 group-title="Наука и образование", Discovery HD
 http://pub1-cdn.perm.ertelecom.ru/discoveryhd_gibrid/0/index.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://pub1-cdn.perm.ertelecom.ru/natgeowildhd_gibrid/0/index.m3u8
+#EXTINF:-1,Discovery Science HD
+http://pub1-cdn.perm.ertelecom.ru/discoverysciencehd_gibrid/0/index.m3u8
 #EXTINF:-1,National Geographic HD
 http://pub1-cdn.perm.ertelecom.ru/natgeohd_gibrid/0/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://pub1-cdn.perm.ertelecom.ru/natgeowildhd_gibrid/0/index.m3u8
 #EXTINF:-1,Animal Planet
 http://pub1-cdn.perm.ertelecom.ru/animalplanet_gibrid/0/index.m3u8
 #EXTINF:-1,Da Vinci Learning
 http://pub1-cdn.perm.ertelecom.ru/davinci_gibrid/0/index.m3u8
-#EXTINF:-1,Discovery Science HD
-http://pub1-cdn.perm.ertelecom.ru/discoverysciencehd_gibrid/0/index.m3u8
 #EXTINF:-1,Galaxy
 http://pub1-cdn.perm.ertelecom.ru/galaxy_gibrid/0/index.m3u8
 #EXTINF:-1,Galaxy
@@ -173,11 +475,31 @@ http://pub1-cdn.perm.ertelecom.ru/viasathistory_gibrid/0/index.m3u8
 http://pub1-cdn.perm.ertelecom.ru/viasatnature_gibrid/0/index.m3u8
 #EXTINF:-1,Viasat Nature/History HD
 http://pub1-cdn.perm.ertelecom.ru/viasatnaturehistoryhd_gibrid/0/index.m3u8
+#EXTINF:-1,В мире животных HD
+http://pub1-cdn.perm.ertelecom.ru/vmirezhivotnyhhd_gibrid/0/index.m3u8
+#EXTINF:-1,История
+http://pub1-cdn.perm.ertelecom.ru/istoria_gibrid/0/index.m3u8
+#EXTINF:-1,Наука
+http://pub1-cdn.perm.ertelecom.ru/nauka2_gibrid/0/index.m3u8
 #EXTINF:-1,Univer TV
 http://a775797910-rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R04_UNIVER/playlist.m3u8?version=2
 
 #EXTINF:-1 group-title="Армия и оружие", Оружие
 http://pub1-cdn.perm.ertelecom.ru/oruzhie_gibrid/0/index.m3u8
+#EXTINF:-1,Победа HD
+http://pub1-cdn.perm.ertelecom.ru/pobedahd_gibrid/0/index.m3u8
+#EXTINF:-1,Звезда
+http://pub1-cdn.perm.ertelecom.ru/zvezda_gibrid/0/index.m3u8
+#EXTINF:-1,Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Звезда (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Звезда (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Звезда (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Совершенно секретно
+http://pub1-cdn.perm.ertelecom.ru/sovershennosekretno_gibrid/0/index.m3u8
 
 #EXTINF:-1 group-title="Новостные каналы",Известия HD
 http://pub1-cdn.perm.ertelecom.ru/izvestiyahd_gibrid/0/index.m3u8
@@ -400,6 +722,8 @@ http://rt-nw-komi-htlive-lb.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8?versio
 http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_SAHA/variant.m3u8?version=2
 #EXTINF:-1,Ямал Регион
 http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2
+#EXTINF:-1,Рифей-ТВ
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?version=2
 
 #EXTINF:-1 group-title="Иностранные каналы", Интер+
 http://pub1-cdn.perm.ertelecom.ru/interplus_gibrid/0/index.m3u8
@@ -426,146 +750,14 @@ http://pub1-cdn.perm.ertelecom.ru/rtdochd_gibrid/0/index.m3u8
 http://pub1-cdn.perm.ertelecom.ru/bober_gibrid/0/index.m3u8
 #EXTINF:-1,365 дней
 http://pub1-cdn.perm.ertelecom.ru/365dney_gibrid/0/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,В мире животных HD
-http://pub1-cdn.perm.ertelecom.ru/vmirezhivotnyhhd_gibrid/0/index.m3u8
-#EXTINF:-1,Живая планета
-http://pub1-cdn.perm.ertelecom.ru/zhivayaplaneta_gibrid/0/index.m3u8
-#EXTINF:-1,История
-http://pub1-cdn.perm.ertelecom.ru/istoria_gibrid/0/index.m3u8
 #EXTINF:-1,Кто есть кто
 http://pub1-cdn.perm.ertelecom.ru/ktoestkto_gibrid/0/index.m3u8
 #EXTINF:-1,Кухня ТВ
 http://pub1-cdn.perm.ertelecom.ru/kuhnyatv_gibrid/0/index.m3u8
-#EXTINF:-1,Моя планета
-http://pub1-cdn.perm.ertelecom.ru/myplanet_gibrid/0/index.m3u8
-#EXTINF:-1,Наука
-http://pub1-cdn.perm.ertelecom.ru/nauka2_gibrid/0/index.m3u8
-#EXTINF:-1,Планета HD
-http://pub1-cdn.perm.ertelecom.ru/planetahd_gibrid/0/index.m3u8
-#EXTINF:-1,Приключения HD
-http://pub1-cdn.perm.ertelecom.ru/priklyucheniyahd_gibrid/0/index.m3u8
-#EXTINF:-1,Рифей-ТВ
-http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?version=2
-#EXTINF:-1,Совершенно секретно
-http://pub1-cdn.perm.ertelecom.ru/sovershennosekretno_gibrid/0/index.m3u8
-#EXTINF:-1,2x2
-http://pub1-cdn.perm.ertelecom.ru/2x2_gibrid/0/index.m3u8
-#EXTINF:-1,2x2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,2x2 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,2x2 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,2x2 (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Paramount Comedy HD
-http://pub1-cdn.perm.ertelecom.ru/paramountcomedyhd_gibrid/0/index.m3u8
 #EXTINF:-1,World Fashion
 http://pub1-cdn.perm.ertelecom.ru/worldfashion_gibrid/0/index.m3u8
 #EXTINF:-1,Живи
 http://pub1-cdn.perm.ertelecom.ru/jivi_gibrid/0/index.m3u8
-#EXTINF:-1,Пятница
-http://pub1-cdn.perm.ertelecom.ru/friday_gibrid/0/index.m3u8
-#EXTINF:-1,Пятница!
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Пятница! (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Пятница! (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Пятница! (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,СТС
-http://pub1-cdn.perm.ertelecom.ru/sts_gibrid/0/index.m3u8
-#EXTINF:-1,СТС
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,СТС (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,СТС (+4)
-http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_IRK_STS/variant.m3u8?version=2
-#EXTINF:-1,СТС (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,СТС Love (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,СТС Love (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,СТС love
-http://pub1-cdn.perm.ertelecom.ru/stslove_gibrid/0/index.m3u8
-#EXTINF:-1,Сарафан
-http://pub1-cdn.perm.ertelecom.ru/sarafan_gibrid/0/index.m3u8
-#EXTINF:-1,Супер
-http://pub1-cdn.perm.ertelecom.ru/super_gibrid/0/index.m3u8
-#EXTINF:-1,Супер
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Супер (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Супер (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Супер (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ТНТ
-http://pub1-cdn.perm.ertelecom.ru/tnt_gibrid/0/index.m3u8
-#EXTINF:-1,ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ТНТ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ТНТ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ТНТ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ТНТ HD
-http://pub1-cdn.perm.ertelecom.ru/tnthd_gibrid/0/index.m3u8
-#EXTINF:-1,ТНТ4
-http://pub1-cdn.perm.ertelecom.ru/tnt4_gibrid/0/index.m3u8
-#EXTINF:-1,ТНТ4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ТНТ4 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ТНТ4 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ТНТ4 (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Че
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Че (+2)
-http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
-#EXTINF:-1,Че (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Ю
-http://pub1-cdn.perm.ertelecom.ru/u_gibrid/0/index.m3u8
-#EXTINF:-1,Ю
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Ю (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Ю (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Ю (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Arirang
 http://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTARIRANG/variant.m3u8?version=2
 #EXTINF:-1,JTV
@@ -580,104 +772,8 @@ http://pub1-cdn.perm.ertelecom.ru/maidan_gibrid/0/index.m3u8
 http://pub1-cdn.perm.ertelecom.ru/spas_gibrid/0/index.m3u8
 #EXTINF:-1,Спас
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Eurosport 1 HD
-http://pub1-cdn.perm.ertelecom.ru/eurosporthd_gibrid/0/index.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://pub1-cdn.perm.ertelecom.ru/eurosport2hd_gibrid/0/index.m3u8
-#EXTINF:-1,M-1 Global HD
-http://pub1-cdn.perm.ertelecom.ru/m1globalhd_gibrid/0/index.m3u8
-#EXTINF:-1,Viasat Sport HD
-http://pub1-cdn.perm.ertelecom.ru/viasatsporthd_gibrid/0/index.m3u8
-#EXTINF:-1,КХЛ
-http://pub1-cdn.perm.ertelecom.ru/khl_gibrid/0/index.m3u8
-#EXTINF:-1,КХЛ HD
-http://pub1-cdn.perm.ertelecom.ru/khlhd_gibrid/0/index.m3u8
-#EXTINF:-1,Матч! Арена HD
-http://pub1-cdn.perm.ertelecom.ru/matcharenahd_gibrid/0/index.m3u8
-#EXTINF:-1,Матч! Игра HD
-http://pub1-cdn.perm.ertelecom.ru/matchigrahd_gibrid/0/index.m3u8
-#EXTINF:-1,Матч! ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Матч! Футбол 1 HD
-http://pub1-cdn.perm.ertelecom.ru/matchfutbol1hd_gibrid/0/index.m3u8
-#EXTINF:-1,Матч! Футбол 2 HD
-http://pub1-cdn.perm.ertelecom.ru/matchfutbol2hd_gibrid/0/index.m3u8
-#EXTINF:-1,Матч! Футбол 3 HD
-http://pub1-cdn.perm.ertelecom.ru/matchfutbol3hd_gibrid/0/index.m3u8
-#EXTINF:-1,Матч Премьер HD
-http://pub1-cdn.perm.ertelecom.ru/nashfootbalhd_gibrid/0/track_2_4000/playlist.m3u8
-#EXTINF:-1,A1 HD
-http://pub1-cdn.perm.ertelecom.ru/amediahd_gibrid/0/index.m3u8
-#EXTINF:-1,Amedia 2
-http://pub1-cdn.perm.ertelecom.ru/amedia2_gibrid/0/index.m3u8
-#EXTINF:-1,Amedia Hit HD
-http://pub1-cdn.perm.ertelecom.ru/amediahithd_gibrid/0/index.m3u8
-#EXTINF:-1,Amedia Premium HD
-http://pub1-cdn.perm.ertelecom.ru/amediapremiumhd_gibrid/0/index.m3u8
-#EXTINF:-1,Bolt HD
-http://pub1-cdn.perm.ertelecom.ru/bolthd_gibrid/0/index.m3u8
-#EXTINF:-1,Cinema
-http://pub1-cdn.perm.ertelecom.ru/cinema_gibrid/0/index.m3u8
-#EXTINF:-1,Fox HD
-http://pub1-cdn.perm.ertelecom.ru/foxhd_gibrid/0/index.m3u8
-#EXTINF:-1,Fox Life HD
-http://pub1-cdn.perm.ertelecom.ru/foxlifehd_gibrid/0/index.m3u8
-#EXTINF:-1,Hollywood HD
-http://pub1-cdn.perm.ertelecom.ru/hollywoodhd_gibrid/0/index.m3u8
-#EXTINF:-1,Paramount Channel HD
-http://pub1-cdn.perm.ertelecom.ru/paramountchannelhd_gibrid/0/index.m3u8
-#EXTINF:-1,Sony Channel HD
-http://pub1-cdn.perm.ertelecom.ru/sonyhd_gibrid/0/index.m3u8
-#EXTINF:-1,Sony Turbo
-http://pub1-cdn.perm.ertelecom.ru/sonyturbo_gibrid/0/index.m3u8
-#EXTINF:-1,Spike HD
-http://pub1-cdn.perm.ertelecom.ru/spikehd_gibrid/0/index.m3u8
-#EXTINF:-1,Star Cinema HD
-http://pub1-cdn.perm.ertelecom.ru/starcinemahd_gibrid/0/index.m3u8
-#EXTINF:-1,TV1000 Action HD
-http://pub1-cdn.perm.ertelecom.ru/tv1000actionhd_gibrid/0/index.m3u8
-#EXTINF:-1,TV1000 HD
-http://pub1-cdn.perm.ertelecom.ru/tv1000hd_gibrid/0/index.m3u8
-#EXTINF:-1,VIP Comedy HD
-http://pub1-cdn.perm.ertelecom.ru/vipcomedyhd_gibrid/0/index.m3u8
-#EXTINF:-1,VIP Megahit HD
-http://pub1-cdn.perm.ertelecom.ru/vipmegahithd_gibrid/0/index.m3u8
-#EXTINF:-1,ViP Premiere HD
-http://pub1-cdn.perm.ertelecom.ru/vippremiumhd_gibrid/0/index.m3u8
-#EXTINF:-1,ViP Serial HD
-http://pub1-cdn.perm.ertelecom.ru/viasatgolfhd_gibrid/0/index.m3u8
-#EXTINF:-1,Дом кино
-http://pub1-cdn.perm.ertelecom.ru/domkino_gibrid/0/index.m3u8
-#EXTINF:-1,Дом кино Премиум HD
-http://pub1-cdn.perm.ertelecom.ru/domkinopremiumhd_gibrid/0/index.m3u8
-#EXTINF:-1,Еврокино
-http://pub1-cdn.perm.ertelecom.ru/eurokino_gibrid/0/index.m3u8
-#EXTINF:-1,Иллюзион+
-http://pub1-cdn.perm.ertelecom.ru/illusionplus_gibrid/0/index.m3u8
-#EXTINF:-1,Кино ТВ HD
-http://pub1-cdn.perm.ertelecom.ru/kinotvhd_gibrid/0/index.m3u8
-#EXTINF:-1,Киносвидание HD
-http://pub1-cdn.perm.ertelecom.ru/kinosvidaniehd_gibrid/0/index.m3u8
-#EXTINF:-1,Киносемья HD
-http://pub1-cdn.perm.ertelecom.ru/kinosemyahd_gibrid/0/index.m3u8
-#EXTINF:-1,Киносерия
-http://pub1-cdn.perm.ertelecom.ru/kinoseriya_gibrid/0/index.m3u8
-#EXTINF:-1,Кинохит HD
-http://pub1-cdn.perm.ertelecom.ru/kinohithd_gibrid/0/index.m3u8
-#EXTINF:-1,Комедия
-http://pub1-cdn.perm.ertelecom.ru/komediyatv_gibrid/0/index.m3u8
 #EXTINF:-1,Москва. Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8?version=2
-#EXTINF:-1,НСТ
-http://pub1-cdn.perm.ertelecom.ru/nst_gibrid/0/index.m3u8
-#EXTINF:-1,НТВ Хит
-http://pub1-cdn.perm.ertelecom.ru/ntvhit_gibrid/0/index.m3u8
-#EXTINF:-1,Победа HD
-http://pub1-cdn.perm.ertelecom.ru/pobedahd_gibrid/0/index.m3u8
-#EXTINF:-1,Ретро
-http://pub1-cdn.perm.ertelecom.ru/retro_gibrid/0/index.m3u8
-#EXTINF:-1,Родное кино
-http://pub1-cdn.perm.ertelecom.ru/rodnoekino_gibrid/0/index.m3u8
 #EXTINF:-1,ТВ 3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТВ 3 (+2)
@@ -698,16 +794,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8?ver
 http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?version=2
 #EXTINF:-1,Домашний (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Звезда
-http://pub1-cdn.perm.ertelecom.ru/zvezda_gibrid/0/index.m3u8
-#EXTINF:-1,Звезда
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Звезда (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Звезда (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Звезда (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Мир
 http://pub1-cdn.perm.ertelecom.ru/mir_gibrid/0/index.m3u8
 #EXTINF:-1,Мир
@@ -720,20 +806,6 @@ http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_MIR/variant.m3u8?
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Мир Premium HD
 http://pub1-cdn.perm.ertelecom.ru/mirhd_gibrid/0/index.m3u8
-#EXTINF:-1,НТВ
-http://pub1-cdn.perm.ertelecom.ru/ntv_gibrid/0/index.m3u8
-#EXTINF:-1,НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,НТВ (+1)
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2
-#EXTINF:-1,НТВ (+2)
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2
-#EXTINF:-1,НТВ (+4)
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?version=2
-#EXTINF:-1,НТВ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,НТВ HD
-http://pub1-cdn.perm.ertelecom.ru/ntvhd_gibrid/0/index.m3u8
 #EXTINF:-1,ОТР
 http://pub1-cdn.perm.ertelecom.ru/otr_gibrid/0/index.m3u8
 #EXTINF:-1,ОТР
@@ -748,44 +820,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/bw2000000/variant.m3u8?version=
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_5TV/variant.m3u8?version=2
 #EXTINF:-1,Пятый канал (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,РЕН ТВ
-http://pub1-cdn.perm.ertelecom.ru/rentv_gibrid/0/index.m3u8
-#EXTINF:-1,РЕН ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,РЕН ТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,РЕН ТВ (+4)
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV/variant.m3u8?version=2
-#EXTINF:-1,РЕН ТВ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,РЕН ТВ HD
-http://pub1-cdn.perm.ertelecom.ru/rentvhd_gibrid/0/index.m3u8
-#EXTINF:-1,Россия 1
-http://pub1-cdn.perm.ertelecom.ru/russia1_gibrid/0/index.m3u8
-#EXTINF:-1,Россия 1
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Россия 1 (+1)
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1,Россия 1 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Россия 1 (+3)
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2
-#EXTINF:-1,Россия 1 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Россия 1 (+5)
-http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1,Россия 1 (+6)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Россия 1 (+7)
-http://s91030.cdn.ngenix.net/hls/CH_R04_OTT_DV_VLD_ROSSIA1_OTT/variant.m3u8?version=2
-#EXTINF:-1,Россия 1 (+8)
-http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8
-#EXTINF:-1,Россия 1 (+9)
-http://s14131.cdn.ngenix.net/hls/CH_R04_OTT_DV_KAM_ROSSIA1_PKAM_OTT/variant.m3u8?version=2
-#EXTINF:-1,Россия 1 (-1)
-http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1,Россия HD
-http://pub1-cdn.perm.ertelecom.ru/russiahd_gibrid/0/index.m3u8
 #EXTINF:-1,Россия К
 http://pub1-cdn.perm.ertelecom.ru/russiak_gibrid/0/index.m3u8
 #EXTINF:-1,Россия К

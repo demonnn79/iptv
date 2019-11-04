@@ -471,7 +471,7 @@ http://178.124.183.5/hls/CH_CTCKIDS/variant.m3u8?version=2
 
 #EXTINF:-1 group-title="Охота и рыбалка",Oхотник и Рыболов HD
 http://178.124.183.5/hls/4FDNBEDGFV/variant.m3u8?version=2
-#EXTINF:0,Oхотник и Рыболов HD
+#EXTINF:-1,Oхотник и Рыболов HD
 https://strm.yandex.ru/kal/ohotnik/ohotnik0.m3u8
 #EXTINF:-1,Охота и Рыбалка
 http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2

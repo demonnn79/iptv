@@ -1,47 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Федеральные каналы",Первый канал HD
+#EXTINF:-1 group-title="Федеральные каналы",Первый канал
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTINF:-1,Первый канал (+5)
+#EXTINF:-1,Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
+#EXTINF:0,Первый канал (+5)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
-#EXTINF:-1,Первый канал (+6)
+#EXTINF:0,Первый канал (+6)
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
 #EXTINF:-1,Россия
 http://31.40.128.20/hls/002_rossiya_1.m3u8
 #EXTINF:-1,Россия 1
-http://gorod.tv/s/live/2/178.141.19.226/1561206607632/0.m3u8
-#EXTINF:-1,Россия 1
-http://77.233.1.12:8081/?m3u8
-#EXTINF:-1,Россия 1 (+2)
-http://79.135.71.195:7778
-#EXTINF:-1,Россия 1 (+6)
-http://176.114.16.54:80/rus1/index.m3u8
-#EXTINF:-1,Россия 1 (+6)
-http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия 24
-http://46.32.64.42/s/live/7/51.51.51.51/1/0.m3u8
-#EXTINF:-1,Россия 24
-http://46.32.68.167/s/live/7/86.169.51.136/1/0.m3u8
-#EXTINF:-1,Россия 24
-http://176.114.16.54:80/rus24/index.m3u8
-#EXTINF:-1,Россия 24
-http://gorod.tv/s/live/7/178.141.19.226/1561206607632/0.m3u8
-#EXTINF:-1,Россия 24
-http://ott-cdn.ucom.am/s21/index.m3u8
-#EXTINF:0,ТНТ HD 
-https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТНТ
-http://176.114.16.54:80/tnt/index.m3u8
-#EXTINF:-1,ТНТ
-http://gorod.tv/s/live/19/178.141.19.226/1561206607632/0.m3u8
-#EXTINF:-1,ТНТ
-http://ott-cdn.ucom.am/s19/index.m3u8
-#EXTINF:-1,ТНТ4 (HD)
-http://85.112.114.11:8086/udp/233.170.170.130:58631
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТНТ4
-http://46.32.68.167/s/live/816/86.169.51.136/1/0.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,НТВ
 http://46.32.64.42/s/live/4/51.51.51.51/1/0.m3u8
 #EXTINF:-1,НТВ
@@ -54,14 +32,8 @@ http://176.114.16.54:80/ntv/index.m3u8
 http://gorod.tv/s/live/4/178.141.19.226/1561206607632/0.m3u8
 #EXTINF:-1,НТВ HD
 http://188.35.9.5:10007/stolen/141n/parasite.install
-#EXTINF:-1,Рен ТВ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1,РЕН ТВ
-http://46.32.68.167/s/live/11/86.169.51.136/1/0.m3u8
-#EXTINF:-1,РЕН ТВ
-http://176.114.16.54:80/ren/index.m3u8
-#EXTINF:-1,РЕН ТВ
-http://gorod.tv/s/live/11/178.141.19.226/1561206607632/0.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,СТС
 http://46.32.68.167/s/live/13/86.169.51.136/1/0.m3u8
 #EXTINF:-1,СТС
@@ -191,7 +163,11 @@ http://streamer.in-lan.net.ua:8080/ch0082
 #EXTINF:-1,ФУТБОЛ HD 
 http://213.234.9.46:7088/udp/239.1.10.31:1234
 #EXTINF:0,Телеканал Футбол
-http://83.246.208.234:81/udp/239.54.7.153:1224?codec=mpeg4 
+http://83.246.208.234:81/udp/239.54.7.153:1224?codec=mpeg4
+#EXTINF:-1, НТВ+ Спорт
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1, АРЕНА
+http://217.25.216.4:8085/udp/238.2.16.146:1234
 #EXTINF:-1,Eurosport 1
 http://46.32.68.167/s/live/501/86.169.51.136/1/0.m3u8
 #EXTINF:-1,Eurosport 1
@@ -254,9 +230,19 @@ http://195.162.90.141:8080/c4f4d43363bea02c37593218d78b39b0
 http://178.124.183.13/hls/HNBMWPATWZ/bw1200000/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Русский Роман
-#EXTINF:-1,Русский Роман
-#EXTINF:-1,Русский Роман
 http://217.25.216.4:8085/udp/225.1.2.92:2020
+#EXTINF:-1, Русский Бестселлер
+http://217.25.216.4:8085/udp/238.2.1.25:1234
+#EXTINF:-1, Русский детектив
+http://217.25.216.4:8085/udp/238.2.1.26:1234
+#EXTINF:-1, Индийское кино
+http://217.25.216.4:8085/udp/225.1.2.159:2020
+#EXTINF:-1,VIP Comedy HD
+https://user11183.clients-cdnnow.ru/hls/ViP_Comedy_HD/master.m3u8
+#EXTINF:-1,VIP Megahit HD
+https://user11183.clients-cdnnow.ru/hls/ViP_Megahit_HD/master.m3u8
+#EXTINF:-1,ViP Premiere HD
+https://user11183.clients-cdnnow.ru/hls/ViP_Premiere_HD/master.m3u8
 #EXTINF:-1,Amedia 1
 http://46.32.68.167/s/live/208/86.169.51.136/1/0.m3u8
 #EXTINF:-1,Amedia 2
@@ -373,6 +359,8 @@ http://46.32.68.167/s/live/203/86.169.51.136/1/0.m3u8
 http://178.124.183.5/hls/CMV4SNACFQ/variant.m3u8?version=2
 #EXTINF:-1,Шокирующее
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+#EXTINF:-1,Остросюжетное HD
+http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
 #EXTINF:-1,Наше Новое Кино
 http://178.124.183.13/hls/UVPWPN2KTN/bw1200000/playlist.m3u8
 #EXTINF:-1,Еврокино
@@ -391,6 +379,17 @@ http://178.124.183.13/hls/W7LNWHFGTB/bw1200000/playlist.m3u8
 http://178.124.183.13/hls/EDVYQYGHF8/bw1200000/playlist.m3u8
 #EXTINF:-1,Amedia 2
 http://178.124.183.13/hls/H4DP5GK3AE/bw1200000/playlist.m3u8
+#EXTINF:-1,Ultra HD Cinema HD
+http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSHD.m3u8
+#EXTINF:-1,Ultra HD Cinema QHD
+http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSQHD.m3u8
+#EXTINF:-1,Ultra HD Cinema UHD
+http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSUHD.m3u8
+#EXTINF:-1,Ultra HD cinema
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
+#EXTINF:-1,Ultra HD Cinema FulHD
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
 
 #EXTINF:-1 group-title="Детские каналы",2x2
 http://46.32.68.167/s/live/823/86.169.51.136/1/0.m3u8
@@ -398,6 +397,44 @@ http://46.32.68.167/s/live/823/86.169.51.136/1/0.m3u8
 http://178.124.183.5/hls/EU9VTLDQCN/variant.m3u8?version=2
 #EXTINF:-1,2х2
 http://176.114.16.54:80/2x2/index.m3u8
+#EXTINF:-1,Nick Jr.
+http://217.25.216.4:8085/udp/225.1.2.32:2020
+#EXTINF:-1,Nickelodeon
+http://217.25.216.4:8085/udp/225.1.2.33:2020
+#EXTINF:-1,Nickelodeon HD
+http://217.25.216.4:8085/udp/225.1.2.34:2020
+#EXTINF:-1 ,Kapitan Fantastika HD
+http://217.25.216.4:8085/udp/225.1.2.149:2020
+#EXTINF:-1 ,Mult HD
+http://217.25.216.4:8085/udp/225.1.2.155:2020
+#EXTINF:-1,Boomerang
+http://27.254.130.56:80/live01/ch18.m3u8
+#EXTINF:-1,Cartoon Network
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1,Disney канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Малятко
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1, Смайлик HD
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
+#EXTINF:-1, Смайлик ТВ HD
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1,Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1,Tiji
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:-1,Рыжий
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:-1,Tuntunik
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:0,Мама 
+http://ott-cdn.ucom.am/s77/index.m3u8
+#EXTINF:-1,СКАЗКИ ЗАЙКИ
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 #EXTINF:-1, Мультимузыка
 http://188.113.190.12/145/video.m3u8
 #EXTINF:-1,Cartoon Network
@@ -503,12 +540,10 @@ http://178.124.183.5/hls/FV47BRVQW4/variant.m3u8?version=2
 #EXTINF:-1,Неизвестная планета
 http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 
-#EXTINF:-1 group-title="Авто-мото",Авто 24
-http://46.32.68.167/s/live/819/86.169.51.136/1/0.m3u8
-#EXTINF:-1, Авто 24
-http://188.113.190.12/154/video.m3u8
-#EXTINF:-1,Авто Плюс
-http://46.32.68.167/s/live/817/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="Авто-мото", Авто 24
+http://217.25.216.4:8085/udp/225.1.2.57:2020
+#EXTINF:-1, Авто Плюс
+http://217.25.216.4:8085/udp/225.1.2.58:2020
 
 #EXTINF:-1 group-title="Юмор и развлечения",Бобёр
 http://46.32.68.167/s/live/418/86.169.51.136/1/0.m3u8
@@ -527,36 +562,30 @@ http://46.32.68.167/s/live/809/86.169.51.136/1/0.m3u8
 #EXTINF:-1,Ю
 http://176.114.16.54:80/utv/index.m3u8
 
-#EXTINF:-1 group-title="Наука и образование",Discovery Channel HD
-http://217.25.216.4:8085/udp/238.2.16.147:1234
+#EXTINF:-1 group-title="Наука и образование", Discovery Russia HD
+http://217.25.216.4:8085/udp/225.1.2.13:2020
 #EXTINF:-1,Discovery
 http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://37.192.100.141:81/udp/239.1.5.1:1234
+#EXTINF:-1 ,Discovery Channel
+http://217.25.216.4:8085/udp/225.1.2.12:2020
+#EXTINF:-1, Discovery Channel HD
+http://217.25.216.4:8085/udp/238.2.16.147:1234
+#EXTINF:-1 ,Discovery Science HD
+http://217.25.216.4:8085/udp/225.1.2.15:2020
 #EXTINF:-1,Discovery Science
-http://182.73.122.74:10003/bysid/914
-#EXTINF:-1,Discovery Science HD
 http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
 #EXTINF:-1,Investigation Discovery
 http://182.73.122.74:10004/bysid/1114
-#EXTINF:-1,Nat Geo HD
-http://213.252.252.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20000=96000-video=5000000.m3u8
-#EXTINF:0,Nat Geo Wild HD
-https://strm.yandex.ru/kal/ngc_wild_hd/ngc_wild_hd0.m3u8
+#EXTINF:-1,National Geographic HD
+http://188.113.190.12/104/video.m3u8
+#EXTINF:-1,National Geographic
+http://188.113.190.12/78/video.m3u8
 #EXTINF:-1,Nat Geo Wild HD
-http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
-#EXTINF:-1,National Geographic
-http://46.32.68.167/s/live/407/86.169.51.136/1/0.m3u8
-#EXTINF:-1,National Geographic Channel
-http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
-#EXTINF:-1,National Geographic HD
-http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-#EXTINF:-1,National Geographic HD
-http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+http://188.113.190.12/178/video.m3u8
 #EXTINF:-1,Nat Geo Wild
-http://178.124.183.13/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8
-#EXTINF:-1,National Geographic
-http://178.124.183.13/hls/CH_NATGEO/bw1200000/playlist.m3u8
+http://188.113.190.12/84/video.m3u8
+#EXTINF:-1,National Geographic HD
+http://188.35.9.11:21031/udp/034x
 #EXTINF:-1,Техно 24
 http://178.124.183.5/hls/ZIVFRAFR2I/variant.m3u8?version=2
 #EXTINF:-1,Техно 24
@@ -622,10 +651,10 @@ http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
 http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Новостные каналы",Известия
+#EXTINF:-1 group-title="Новостные каналы",Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1,Известия ТВ FHD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,IZ.RU HD
-http://46.32.68.167/s/live/311/86.169.51.136/1/0.m3u8
 #EXTINF:-1,EuroNews
 http://195.162.90.141:8080/12dbdbb76773a040edcd9e3149f465d2
 #EXTINF:-1,Euronews

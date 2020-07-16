@@ -14,8 +14,8 @@ http://31.40.128.20/hls/002_rossiya_1.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,ТНТ HD
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
 #EXTINF:-1,ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТНТ4
@@ -26,6 +26,8 @@ http://31.40.128.20/hls/004_ntv.m3u8
 http://176.114.16.54:80/ntv/index.m3u8
 #EXTINF:-1,НТВ HD
 http://188.35.9.5:10007/stolen/141n/parasite.install
+#EXTINF:-1 ,Рен ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1,РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,СТС
@@ -41,12 +43,16 @@ http://176.114.16.54:80/5tv/index.m3u8
 https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1,ТНТ music (bonus-tv)
 http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v3a1/index.m3u8
+#EXTINF:-1 ,1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:0,Europa+ TV HD
 https://strm.yandex.ru/kal/europaplus/europaplus0.m3u8
 #EXTINF:0,Russian MB HD
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF:0,1HD
 https://strm.yandex.ru/kal/1hd/1hd0.m3u8
+#EXTINF:-1 ,HITV
+https://strm.yandex.ru/kal/hittv/hittv0.m3u8
 #EXTINF:-1,Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,Djing Animation HD
@@ -77,6 +83,10 @@ http://www.djing.com/tv/underground.m3u8
 https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
 #EXTINF:-1,Melody Channel TV
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 ,RU TV HD
+http://rutv.gcdn.co/streams/1410_1272/playlist.m3u8
+#EXTINF:-1 ,RU TV HD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-1,RUTV HD
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1,Russian MusicBox
@@ -85,6 +95,8 @@ http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 https://songtvru.ru/hd/playlist.m3u8
 #EXTINF:-1,Муз ТВ
 http://176.114.16.54:80/muztv/index.m3u8
+#EXTINF:-1 ,Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1,Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1,Шансон ТВ
@@ -100,6 +112,10 @@ http://176.114.16.54:80/match/index.m3u8
 http://46.32.68.167/s/live/507/86.169.51.136/1/0.m3u8
 #EXTINF:-1,Матч! Страна
 http://46.32.68.167/s/live/510/86.169.51.136/1/0.m3u8
+#EXTINF:-1 ,Матч!
+http://176.114.16.54:80/match/index.m3u8
+#EXTINF:-1 ,Матч!
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Кино UHD
 http://188.35.9.26:16050/udp/238.0.16.1:69000
@@ -128,9 +144,15 @@ http://ott-cdn.ucom.am/s59/index.m3u8
 
 #EXTINF:-1 group-title="Охота и рыбалка",Oхотник и Рыболов HD
 https://strm.yandex.ru/kal/ohotnik/ohotnik0.m3u8
+#EXTINF:-1 ,Охотник и Рыболов Международный
+https://strm.yandex.ru/kal/ohotnik/ohotnik0.m3u8
 
 #EXTINF:-1 group-title="Путешествия и экстрим",Ocean TV
 http://91.192.168.242:9091
+#EXTINF:-1 ,Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1 ,Ocean TV
+https://strm.yandex.ru/kal/oceantv_supres/oceantv_supres0.m3u8
 #EXTINF:-1,Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1,Travel HD BG
@@ -157,10 +179,22 @@ http://182.73.122.74:10004/bysid/1114
 
 #EXTINF:-1 group-title="Армия и оружие",Звезда
 http://176.114.16.54:80/zvezda/index.m3u8
+#EXTINF:-1 ,Ратник
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Новостные каналы",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1,Известия ТВ FHD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 ,Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1,Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,Россия 24
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
+#EXTINF:-1 ,Россия 24
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1 ,Euronews
+https://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
 
 #EXTINF:-1 group-title="Прочие каналы",

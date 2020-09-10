@@ -104,6 +104,8 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Спортивные каналы",НТВ+ Спорт
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1,КХЛ HD
+http://45.159.16.20:8000/play/a0ar
 #EXTINF:-1,МАТЧ!
 http://31.40.128.20/hls/003_match_tv.m3u8
 #EXTINF:-1,Матч!
@@ -116,9 +118,73 @@ http://46.32.68.167/s/live/510/86.169.51.136/1/0.m3u8
 http://176.114.16.54:80/match/index.m3u8
 #EXTINF:-1 ,Матч!
 http://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1,Боец
+http://45.159.16.20:8000/play/a069
+#EXTINF:-1,Боец
+http://45.159.16.20:8000/play/a02y
+#EXTINF:-1,Бокс
+http://45.159.16.20:8000/play/a0c0
+#EXTINF:-1,Конный Мир HD
+http://45.159.16.20:8000/play/a0c2
+#EXTINF:-1,МАТЧ! HD
+http://45.159.16.20:8000/play/a09q
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://45.159.16.20:8000/play/a09r
+#EXTINF:-1,МАТЧ! ИГРА HD
+http://45.159.16.20:8000/play/a09s
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+http://45.159.16.20:8000/play/a09t
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+http://45.159.16.20:8000/play/a09u
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
+http://45.159.16.20:8000/play/a09v
+#EXTINF:-1,Матч Примьер HD
+http://45.159.16.20:8000/play/a0an
+#EXTINF:-1,Матч ТВ
+http://45.159.16.20:8000/play/a07k
+#EXTINF:-1,Матч ТВ
+http://45.159.16.20:8000/play/a037
+#EXTINF:-1,Матч ТВ HD
+http://45.159.16.20:8000/play/a00x
+#EXTINF:-1,Матч футбол1
+http://45.159.16.20:8000/play/a02z
+#EXTINF:-1,Матч футбол2
+http://45.159.16.20:8000/play/a030
+#EXTINF:-1,Матч футбол3
+http://45.159.16.20:8000/play/a031
+#EXTINF:-1,Матч! Боец
+http://45.159.16.20:8000/play/a0b9
+#EXTINF:-1,Матч! Футбол 1 HD
+http://45.159.16.20:8000/play/a06i
+#EXTINF:-1,Матч! Футбол 2 HD
+http://45.159.16.20:8000/play/a06j
+#EXTINF:-1,Матч! Футбол 3 HD
+http://45.159.16.20:8000/play/a06k
+#EXTINF:-1,Футбол
+http://45.159.16.20:8000/play/a02c
+#EXTINF:-1,Футбол 1
+http://45.159.16.20:8000/play/a06a
 
 #EXTINF:-1 group-title="Кино и сериалы",Кино UHD
 http://188.35.9.26:16050/udp/238.0.16.1:69000
+#EXTINF:-1,Русский Бестселлер
+http://45.159.16.20:8000/play/a04b
+#EXTINF:-1,Русский Детектив
+http://45.159.16.20:8000/play/a04j
+#EXTINF:-1,Русский Иллюзион
+http://45.159.16.20:8000/play/a099
+#EXTINF:-1,Русский бестселлер
+http://45.159.16.20:8000/play/a09m
+#EXTINF:-1,Русский иллюзион
+http://45.159.16.20:8000/play/a01f
+#EXTINF:-1,Русский роман
+http://45.159.16.20:8000/play/a09l
+#EXTINF:-1,Русский роман
+http://45.159.16.20:8000/play/a01j
+#EXTINF:-1,Русский роман HD
+http://45.159.16.20:8000/play/a01k
+#EXTINF:-1,ИНДИЙСКОЕ КИНО
+http://45.159.16.20:8000/play/a08t
 #EXTINF:-1,Остросюжетное HD
 http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
 #EXTINF:-1,Ultra HD cinema
@@ -126,6 +192,20 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?versio
 #EXTINF:-1,Ultra HD Cinema FulHD
 #EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://45.159.16.20:8000/play/a092
+#EXTINF:-1,КИНОМИКС
+http://45.159.16.20:8000/play/a08x
+#EXTINF:-1,КИНОПРЕМЬЕРА HD
+http://45.159.16.20:8000/play/a0a5
+#EXTINF:-1,КИНОСВИДАНИЕ
+http://45.159.16.20:8000/play/a08y
+#EXTINF:-1,КИНОСЕМЬЯ
+http://45.159.16.20:8000/play/a098
+#EXTINF:-1,КИНОСЕРИЯ
+http://45.159.16.20:8000/play/a093
+#EXTINF:-1,КИНОХИТ
+http://45.159.16.20:8000/play/a091
 
 #EXTINF:-1 group-title="Детские каналы",2x2
 http://176.114.16.54:80/2x2/index.m3u8
@@ -133,6 +213,8 @@ http://176.114.16.54:80/2x2/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Disney канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Disney
+http://45.159.16.20:8000/play/a05s
 #EXTINF:-1,Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
 #EXTINF:-1, Смайлик HD
@@ -141,11 +223,39 @@ http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1,Tiji
 http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:-1,Nick Jr.
+http://45.159.16.20:8000/play/a09a
+#EXTINF:-1,Nick Jr.
+http://45.159.16.20:8000/play/a06f
+#EXTINF:-1,Nickelodeon HD
+http://45.159.16.20:8000/play/a0a6
+#EXTINF:-1,Nickelodeon_HD
+http://45.159.16.20:8000/play/a06d
+#EXTINF:-1,Детский
+http://45.159.16.20:8000/play/a012
+#EXTINF:-1,Детский Мир
+http://45.159.16.20:8000/play/a04w
+#EXTINF:-1,Детский мир/Телеклуб
+http://45.159.16.20:8000/play/a08q
+#EXTINF:-1,Канал Disney
+http://45.159.16.20:8000/play/a08w
+#EXTINF:-1,Карусель
+http://45.159.16.20:8000/play/a07p
+#EXTINF:-1,Карусель
+http://45.159.16.20:8000/play/a008
 
 #EXTINF:-1 group-title="Охота и рыбалка",Oхотник и Рыболов HD
 https://strm.yandex.ru/kal/ohotnik/ohotnik0.m3u8
 #EXTINF:-1 ,Охотник и Рыболов Международный
 https://strm.yandex.ru/kal/ohotnik/ohotnik0.m3u8
+#EXTINF:-1,Диалоги о рыбалке
+http://45.159.16.20:8000/play/a0aw
+#EXTINF:-1,Дикая Охота HD
+http://45.159.16.20:8000/play/a0c8
+#EXTINF:-1,Дикая Рыбалка HD
+http://45.159.16.20:8000/play/a0c7
+#EXTINF:-1,Дикий
+http://45.159.16.20:8000/play/a0c1
 
 #EXTINF:-1 group-title="Путешествия и экстрим",Ocean TV
 http://91.192.168.242:9091
@@ -164,6 +274,12 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000
 http://217.25.216.4:8085/udp/225.1.2.57:2020
 #EXTINF:-1, Авто Плюс
 http://217.25.216.4:8085/udp/225.1.2.58:2020
+#EXTINF:-1,АВТО24
+http://45.159.16.20:8000/play/a0ai
+#EXTINF:-1,Авто 24
+http://45.159.16.20:8000/play/a01x
+#EXTINF:-1,Авто Плюс
+http://45.159.16.20:8000/play/a08p
 
 #EXTINF:-1 group-title="Юмор и развлечения",ТНТ4 HD
 https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
@@ -174,13 +290,33 @@ http://176.114.16.54:80/che/index.m3u8
 #EXTINF:-1,Ю
 http://176.114.16.54:80/utv/index.m3u8
 
-#EXTINF:-1 group-title="Наука и образование",Investigation Discovery
-http://182.73.122.74:10004/bysid/1114
+#EXTINF:-1 group-title="Наука и образование",Discovery Channel
+http://45.159.16.20:8000/play/a06l
+#EXTINF:-1,Discovery Channel HD
+http://45.159.16.20:8000/play/a09z
+#EXTINF:-1,Discovery Science
+http://45.159.16.20:8000/play/a089
+#EXTINF:-1,Nat Geo Wild
+http://45.159.16.20:8000/play/a079
+#EXTINF:-1,Nat Geo Wild HD
+http://45.159.16.20:8000/play/a0a1
+#EXTINF:-1,Nat Geo Wild HD
+http://45.159.16.20:8000/play/a07b
+#EXTINF:-1,National Geographic
+http://45.159.16.20:8000/play/a07a
+#EXTINF:-1,National Geographic HD
+http://45.159.16.20:8000/play/a0a0
+#EXTINF:-1,National Geographic HD
+http://45.159.16.20:8000/play/a07c
+#EXTINF:-1,Техно 24
+http://45.159.16.20:8000/play/a029
 
 #EXTINF:-1 group-title="Армия и оружие",Звезда
 http://176.114.16.54:80/zvezda/index.m3u8
 #EXTINF:-1 ,Ратник
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1,Ратник
+http://45.159.16.20:8000/play/a05y
 
 #EXTINF:-1 group-title="Новостные каналы",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8

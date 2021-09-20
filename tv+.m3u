@@ -48,10 +48,6 @@ http://87.247.44.25:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
 http://37.99.5.234/btv/SWM/A2/A2_384p_1000kbps.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
 http://81.23.184.88:4022/udp/234.0.0.169:2000
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино",TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Action HD
@@ -229,10 +225,6 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 http://176.114.16.54:80/match/index.m3u8
 #EXTINF:-1 ,Матч!
 http://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1 ,Ultra HD cinema
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! HD
 https://cdn.onarmtv.com/str/11/output.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! HD

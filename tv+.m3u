@@ -140,6 +140,7 @@ https://v2.catcast.tv/content/38896/index.m3u8
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 ,Видеокассета
 https://autopilot.catcast.tv/content/37925/index.m3u8
+
 #EXTINF:-1 group-title="Музыкальные каналы",1HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,ТНТ Music
@@ -210,43 +211,45 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 ,Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Спортивные каналы",НТВ+ Спорт
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 ,Матч!
 http://176.114.16.54:80/match/index.m3u8
 #EXTINF:-1 ,Матч!
 http://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! HD
+#EXTINF:-1 ,Матч! HD
 https://cdn.onarmtv.com/str/11/output.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! HD
+#EXTINF:-1 ,Матч! HD
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Арена
+#EXTINF:-1 ,Матч! Арена
 http://81.23.184.88:4022/udp/234.0.0.12:2000
-#EXTINF:-1 group-title="Спорт",Матч! Страна
+#EXTINF:-1 ,Матч! Страна
 http://81.23.184.88:4022/udp/234.0.0.188:2000
-#EXTINF:-1 group-title="Спорт",Матч! Премьер
+#EXTINF:-1 ,Матч! Премьер
 https://95-213-224-183.livesports24.online/mpremierrus.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
+#EXTINF:-1 ,Матч! Футбол 1 HD
 http://185.230.140.203/MATCH_FOOTBALL1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
+#EXTINF:-1 ,Матч! Футбол 2 HD
 http://185.230.140.203/MATCH_FOOTBALL2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
+#EXTINF:-1 ,Матч! Футбол 3
 https://cdn.onarmtv.com/str/8/output.m3u8
-#EXTINF:-1 group-title="Спорт",Футбол
+#EXTINF:-1 ,Футбол
 http://81.23.184.88:4022/udp/234.0.0.197:2000
-#EXTINF:-1 group-title="Спорт",Боец
+#EXTINF:-1 ,Боец
 http://81.23.184.88:4022/udp/234.0.0.6:2000
-#EXTINF:-1 group-title="Спорт",КХЛ HD
+#EXTINF:-1 ,КХЛ HD
 https://95-213-224-173.livesports24.online/khlhdru.m3u8
-#EXTINF:-1 group-title="Спорт",Спортивный HD
+#EXTINF:-1 ,Спортивный HD
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Детские каналы",2x2
 http://176.114.16.54:80/2x2/index.m3u8
 #EXTINF:-1 ,2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Детские",В гостях у сказки
+#EXTINF:-1 ,В гостях у сказки
 http://87.247.44.26/btv/SWM/U_Skazki/U_Skazki_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Детские",В гостях у сказки
+#EXTINF:-1 ,В гостях у сказки
 http://81.23.184.88:4022/udp/234.0.0.248:2000
 #EXTINF:-1 ,Дисней
 http://188.40.68.167/russia/disney/playlist.m3u8
@@ -258,20 +261,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?versio
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
 #EXTINF:-1 ,Смайлик ТВ HD
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Охота и рыбалка",Дикая охота HD
 http://91.221.201.2:7100/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
+#EXTINF:-1 ,Дикая рыбалка HD
 http://91.221.201.2:7100/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Путешествия и экстрим",Ocean TV
+#EXTINF:-1 ,Ocean TV
 http://91.192.168.242:9091
 #EXTINF:-1 ,Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1 ,Моя Планета
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 ,ЧЕ
-http://176.114.16.54:80/che/index.m3u8
-#EXTINF:-1 ,Ю
-http://176.114.16.54:80/utv/index.m3u8
+
 #EXTINF:-1 group-title="Армия и оружие",Звезда
 http://176.114.16.54:80/zvezda/index.m3u8
 #EXTINF:-1 ,Звезда
@@ -286,6 +287,7 @@ http://46.34.209.243/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
 http://188.40.68.167/russia/oruzhie/playlist.m3u8
 #EXTINF:-1 ,Ратник
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+
 #EXTINF:-1 group-title="Познавательные",Discovery HD
 http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1 ,National Geografic
@@ -296,18 +298,19 @@ http://87.247.44.26/btv/SWM/NatGeo_Wild/NatGeo_Wild_1080p_5000kbps.m3u8
 http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
 #EXTINF:-1 ,NanoTV
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="Познавательные",Discovery Channel
+#EXTINF:-1 ,Discovery Channel
 http://pilot.multiscreen.moldtelecom.md/live/eds/discovery_channel_sd/HLSv3/discovery_channel_sd.m3u8
-#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+#EXTINF:-1 ,Animal Planet HD
 http://pilot.multiscreen.moldtelecom.md/live/eds/animal_planet_hd/HLSv3/animal_planet_hd.m3u8
-#EXTINF:-1 group-title="Познавательные",Discovery Science HD
+#EXTINF:-1 ,Discovery Science HD
 http://pilot.multiscreen.moldtelecom.md/live/eds/discovery_science_hd/HLSv3/discovery_science_hd.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic
+#EXTINF:-1 ,National Geographic
 http://pilot.multiscreen.moldtelecom.md/live/eds/national_geographic_sd/HLSv3/national_geographic_sd.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat Nature HD
+#EXTINF:-1 ,Viasat Nature HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat Explore HD
+#EXTINF:-1 ,Viasat Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+
 #EXTINF:-1 group-title="Новостные каналы",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,Известия ТВ

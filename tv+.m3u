@@ -42,108 +42,104 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?vers
 http://46.34.209.243/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
 #EXTINF:-1 ,Мир сериала
 http://188.40.68.167/russia/mir_seriala/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Amedia 1 HD
+#EXTINF:-1 ,Amedia 1 HD
 http://87.247.44.25:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Кино",Amedia 2
+#EXTINF:-1 ,Amedia 2
 http://37.99.5.234/btv/SWM/A2/A2_384p_1000kbps.m3u8
-#EXTINF:-1 group-title="Кино",Amedia Hit
+#EXTINF:-1 ,Amedia Hit
 http://81.23.184.88:4022/udp/234.0.0.169:2000
-#EXTINF:-1 group-title="Кино",TV1000 HD
+#EXTINF:-1 ,TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:-1 group-title="Кино",TV1000 Action HD
+#EXTINF:-1 ,TV1000 Action HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1 group-title="Кино",TV1000 Русское кино
+#EXTINF:-1 ,TV1000 Русское кино
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
-#EXTINF:-1 group-title="Кино",TV1000 HD
+#EXTINF:-1 ,TV1000 HD
 http://pilot.multiscreen.moldtelecom.md/live/eds/tv1000_hd/HLSv3/tv1000_hd.m3u8
-#EXTINF:-1 group-title="Кино",TV1000 Русское кино HD
+#EXTINF:-1 ,TV1000 Русское кино HD
 http://pilot.multiscreen.moldtelecom.md/live/eds/tv1000russkoe_kino_hd/HLSv3/tv1000russkoe_kino_hd.m3u8
-#EXTINF:-1 group-title="Кино",TV1000 World Kino
+#EXTINF:-1 ,TV1000 World Kino
 http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/1065/index.m3u8
-#EXTINF:-1 group-title="Кино",VIP Premiere
+#EXTINF:-1 ,VIP Premiere
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1 group-title="Кино",VIP Megahit
+#EXTINF:-1 ,VIP Megahit
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 group-title="Кино",VIP Comedy
+#EXTINF:-1 ,VIP Comedy
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1 group-title="Кино",Победа Int.
+#EXTINF:-1 ,Победа Int.
 http://pilot.multiscreen.moldtelecom.md/live/eds/pobeda_int_sd/HLSv3/pobeda_int_sd.m3u8
-#EXTINF:-1 group-title="Кино",Дорама HD
+#EXTINF:-1 ,Дорама HD
 http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
-#EXTINF:-1 group-title="Кино",Кинохит
+#EXTINF:-1 ,Кинохит
 http://pilot.multiscreen.moldtelecom.md/live/eds/kinohit_sd/HLSv3/kinohit_sd.m3u8
-#EXTINF:-1 group-title="Кино",Киномикс
+#EXTINF:-1 ,Киномикс
 http://81.23.184.88:4022/udp/234.0.0.222:2000
-#EXTINF:-1 group-title="Кино",Киноужас
+#EXTINF:-1 ,Киноужас
 http://37.99.5.235:80/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Кино",Мужское кино HD
+#EXTINF:-1 ,Мужское кино HD
 http://87.247.44.26/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Кино",Киносвидание HD
+#EXTINF:-1 ,Киносвидание HD
 http://87.247.44.26/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Кино",Кинокомедия HD
+#EXTINF:-1 ,Кинокомедия HD
 http://87.247.44.26/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Кино",Наше новое кино
+#EXTINF:-1 ,Наше новое кино
 http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_720p_3500kbps.m3u8
-#EXTINF:-1 group-title="Кино",Наше новое кино HD
+#EXTINF:-1 ,Наше новое кино HD
 http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Кино",Наше новое кино HD
+#EXTINF:-1 ,Наше новое кино HD
 http://87.247.44.26/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Кино",Кино ТВ
+#EXTINF:-1 ,Кино ТВ
 http://pilot.multiscreen.moldtelecom.md/live/eds/kinotv_sd/HLSv3/kinotv_sd.m3u8
-#EXTINF:-1 group-title="Кино",Кинопоказ
+#EXTINF:-1 ,Кинопоказ
 http://178.163.97.154:4022/udp/234.0.0.209:2000
-#EXTINF:-1 group-title="Кино",Кинопоказ
+#EXTINF:-1 ,Кинопоказ
 http://91.221.201.2:7006/play/a002/index.m3u8
-#EXTINF:-1 group-title="Кино",CINEMA
+#EXTINF:-1 ,CINEMA
 http://37.99.5.234/btv/SWM/CINEMA/CINEMA.m3u8
-#EXTINF:-1 group-title="Кино",FOX Life
+#EXTINF:-1 ,FOX Life
 http://37.99.5.234/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
-#EXTINF:-1 group-title="Кино",Sony Sci-Fi
+#EXTINF:-1 ,Sony Sci-Fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
-#EXTINF:-1 group-title="Кино",Еврокино
+#EXTINF:-1 ,Еврокино
 http://37.99.5.235/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Кино",Феникс Плюс
+#EXTINF:-1 ,Феникс Плюс
 https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
-#EXTINF:-1 group-title="Кино",Суббота! HD
+#EXTINF:-1 ,Суббота! HD
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Zee TV
+#EXTINF:-1 ,Zee TV
 http://194.213.23.7:3304
-#EXTINF:-1 group-title="Кино",Наше любимое кино
+#EXTINF:-1 ,Наше любимое кино
 http://37.99.5.235/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Кино",Русский роман
+#EXTINF:-1 ,Русский роман
 http://81.23.184.88:4022/udp/234.0.0.224:2000
-#EXTINF:-1 group-title="Кино",Русский бестселлер
+#EXTINF:-1 ,Русский бестселлер
 http://81.23.184.88:4022/udp/234.0.0.250:2000
-#EXTINF:-1 group-title="Кино",Дом кино
+#EXTINF:-1 ,Дом кино
 http://87.247.44.26/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Кино",Дом кино Премиум HD
+#EXTINF:-1 ,Дом кино Премиум HD
 http://37.99.5.235/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_720p_3500kbps.m3u8
-#EXTINF:-1 group-title="Кино",Мир сериала
-http://188.40.68.167/russia/mir_seriala/playlist.m3u8
-#EXTINF:-1 group-title="Кино",НТВ Хит
+#EXTINF:-1 ,НТВ Хит
 http://fwryalta.trkcrimea.ru/yalta.m3u8
-#EXTINF:-1 group-title="Кино",НТВ Хит
+#EXTINF:-1 ,НТВ Хит
 http://81.23.184.88:4022/udp/234.0.0.236:2000
-#EXTINF:-1 group-title="Кино",День Победы
+#EXTINF:-1 ,День Победы
 http://5921747b.ottolok.net/iptv/8K6QLPHQA9XWMN/5054/index.m3u8
-#EXTINF:-1 group-title="Кино",Millenium TV
+#EXTINF:-1 ,Millenium TV
 http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Millenium TV HD
+#EXTINF:-1 ,Millenium TV HD
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Фантастика Sci-Fi
+#EXTINF:-1 ,Фантастика Sci-Fi
 https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 group-title="Кино",Sky2000 HD
+#EXTINF:-1 ,Sky2000 HD
 http://siza.site/iptvteam?format=flv
-#EXTINF:-1 group-title="Кино",Кино 1 International
+#EXTINF:-1 ,Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="Кино",Ужастик
+#EXTINF:-1 ,Ужастик
 https://v2.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1 group-title="Кино",Видеокассета
+#EXTINF:-1 ,Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 group-title="Кино",Видеокассета
+#EXTINF:-1 ,Видеокассета
 https://autopilot.catcast.tv/content/37925/index.m3u8
-
-
 #EXTINF:-1 group-title="Музыкальные каналы",1HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,ТНТ Music
@@ -170,8 +166,6 @@ http://rtmp.one.by:2200
 http://rtmp.one.by:2300
 #EXTINF:-1 ,Музыка Первого
 http://46.34.209.243/btv/SWM/Muzyka_Pervogo/Muzyka_Pervogo_576p_2000kbps.m3u8
-#EXTINF:-1 ,MTV Russia
-http://188.40.68.167/russia/mtv/playlist.m3u8
 #EXTINF:-1 ,MTV Russia
 http://46.34.209.243/btv/SWM/MTV_Russia/MTV_Russia_576p_2000kbps.m3u8
 #EXTINF:-1 ,Hit Music Channel
@@ -215,10 +209,7 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 ,Шансон-ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 ,Шансон ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
-#EXTINF:-1 ,Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Спортивные каналы",НТВ+ Спорт
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 ,Матч!
@@ -249,7 +240,6 @@ http://81.23.184.88:4022/udp/234.0.0.6:2000
 https://95-213-224-173.livesports24.online/khlhdru.m3u8
 #EXTINF:-1 group-title="Спорт",Спортивный HD
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Детские каналы",2x2
 http://176.114.16.54:80/2x2/index.m3u8
 #EXTINF:-1 ,2x2
@@ -268,12 +258,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?versio
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
 #EXTINF:-1 ,Смайлик ТВ HD
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Охота и рыбалка",Дикая охота HD
 http://91.221.201.2:7100/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
 http://91.221.201.2:7100/play/a00l/index.m3u8
-
 #EXTINF:-1 group-title="Путешествия и экстрим",Ocean TV
 http://91.192.168.242:9091
 #EXTINF:-1 ,Travel Guid-TV
@@ -284,7 +272,6 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000
 http://176.114.16.54:80/che/index.m3u8
 #EXTINF:-1 ,Ю
 http://176.114.16.54:80/utv/index.m3u8
-
 #EXTINF:-1 group-title="Армия и оружие",Звезда
 http://176.114.16.54:80/zvezda/index.m3u8
 #EXTINF:-1 ,Звезда
@@ -297,11 +284,8 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://46.34.209.243/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
 #EXTINF:-1 ,Оружие
 http://188.40.68.167/russia/oruzhie/playlist.m3u8
-#EXTINF:-1 ,Оружие
-http://188.40.68.167/russia/oruzhie/playlist.m3u8
 #EXTINF:-1 ,Ратник
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-
 #EXTINF:-1 group-title="Познавательные",Discovery HD
 http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1 ,National Geografic
@@ -316,26 +300,19 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 http://pilot.multiscreen.moldtelecom.md/live/eds/discovery_channel_sd/HLSv3/discovery_channel_sd.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet HD
 http://pilot.multiscreen.moldtelecom.md/live/eds/animal_planet_hd/HLSv3/animal_planet_hd.m3u8
-#EXTINF:-1 group-title="Познавательные",Animal Planet HD
-http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Science HD
 http://pilot.multiscreen.moldtelecom.md/live/eds/discovery_science_hd/HLSv3/discovery_science_hd.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic HD
-http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://pilot.multiscreen.moldtelecom.md/live/eds/national_geographic_sd/HLSv3/national_geographic_sd.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-
 #EXTINF:-1 group-title="Новостные каналы",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
 #EXTINF:-1 ,Известия ТВ HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 ,Известия ТВ FHD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 ,Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
